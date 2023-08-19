@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @laiqisui45
+- 👀 I’m interested in Data Science student proficient in SQL. 
+- 🌱 I’m currently learning Excited to use data for informed decision making and business growth.
